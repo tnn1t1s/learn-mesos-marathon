@@ -1,1 +1,2 @@
-This is a supervisor + mesos + marathon + zookeeper.
+This is a supervisor + mesos + marathon + zookeeper setup.
+
